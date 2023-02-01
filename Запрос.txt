@@ -1,0 +1,10 @@
+C:\pythonProject9>python main.py Улица Ярцевская 27
+{'metaDataProperty': {'GeocoderMetaData': {'precision': 'exact', 'text': 'Россия, Москва, Ярцевская улица, 27к1', 'kind': 'house', 'Address': {'country_code
+': 'RU', 'formatted': 'Россия, Москва, Ярцевская улица, 27к1', 'postal_code': '121552', 'Components': [{'kind': 'country', 'name': 'Россия'}, {'kind': 'prov
+ince', 'name': 'Центральный федеральный округ'}, {'kind': 'province', 'name': 'Москва'}, {'kind': 'locality', 'name': 'Москва'}, {'kind': 'street', 'name':
+'Ярцевская улица'}, {'kind': 'house', 'name': '27к1'}]}, 'AddressDetails': {'Country': {'AddressLine': 'Россия, Москва, Ярцевская улица, 27к1', 'CountryName
+Code': 'RU', 'CountryName': 'Россия', 'AdministrativeArea': {'AdministrativeAreaName': 'Москва', 'Locality': {'LocalityName': 'Москва', 'Thoroughfare': {'Th
+oroughfareName': 'Ярцевская улица', 'Premise': {'PremiseNumber': '27к1', 'PostalCode': {'PostalCodeNumber': '121552'}}}}}}}}}, 'name': 'Ярцевская улица, 27к
+1', 'description': 'Москва, Россия', 'boundedBy': {'Envelope': {'lowerCorner': '37.412595 55.739428', 'upperCorner': '37.420805 55.744059'}}, 'Point': {'pos
+': '37.4167 55.741744'}}
+
